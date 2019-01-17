@@ -4,6 +4,7 @@ cachefiles
 viewerfiles/*
 cachefiles/*
 .htaccess
+!config/.htaccess
 .idea/
 .DS_store
 */.DS_store
